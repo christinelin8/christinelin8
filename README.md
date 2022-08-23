@@ -7,8 +7,8 @@
 
 #### Some things about me:
 
-- 🌱 HTML, CSS, and Javascript
-- 🌱 I'm currently working on creating webpages, learning APIs 
+- 🌱 Learning at the moment: HTML, CSS, and Javascript
+- 🌱 I'm currently working on creating webpages and learning APIs 
 - 🌱 Some of my hobbies are reading, tennis, playing video games especially League of Legends
 
 
